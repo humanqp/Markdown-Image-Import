@@ -2,7 +2,7 @@ Markdown에서 Dropbox 공유 이미지 링크하기
 ---
 > `www`=>`dl`
 > `?dl=0`=>`제거`
-> 즉 다음과 같이 공유 링크를 Markdown용 링크로 변경하면 된다.
+> 즉 다음과 같이 공유 링크를 Markdown용 링크로 변경하면 된다. <br>
 > 공유링크 : https://`www`.dropbox.com/s/9hunh8pqh4ls2re/ios11-iphone7-settings-apple-id-password-security-change-password.jpg`?dl=0` <br>
 > Markdown에서 사용할 링크 : https://`dl`.dropbox.com/s/9hunh8pqh4ls2re/ios11-iphone7-settings-apple-id-password-security-change-password.jpg <br>
 
