@@ -1,5 +1,3 @@
-# Markdown-Image-Import
-
 Markdown에서 Dropbox 공유 이미지 링크하기
 ---
 > `www`=>`dl`
