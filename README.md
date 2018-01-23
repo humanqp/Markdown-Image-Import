@@ -13,18 +13,4 @@
 - 변경 내용 : `open?` -> `uc?` <br>
 
  ![b](https://drive.google.com/uc?id=1yVkb0hFptcXtj0gylMCbh8usRqk_4HLo)
-
-
-
-
-#add the default parameters - this will edit /Library/Preferences/org.jenkins-ci.plist
-
-sudo defaults write /Library/Preferences/org.jenkins-ci httpPort 7070
-
-#stop
-
-sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist
-
-#start
-
-sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist
+ 
